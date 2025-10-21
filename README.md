@@ -25,21 +25,7 @@ Browser Geolocation API	Fetches the user’s current device location
 ✅ Marker removal when a user disconnects
 ✅ Beginner-friendly, yet scalable backend structure
 
-📂 Project Structure
-realtime-device-tracker/
-│
-├── public/
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│       └── main.js
-│
-├── views/
-│   └── index.ejs
-│
-├── server.js
-├── package.json
-└── README.md
+
 
 🧠 How It Works
 
